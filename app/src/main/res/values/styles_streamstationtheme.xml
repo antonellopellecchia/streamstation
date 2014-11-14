@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Generated with http://android-holo-colors.com -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <style name="EditTextStreamStationTheme" parent="android:Widget.EditText">
+	  <item name="android:background">@drawable/streamstationtheme_edit_text_holo_light</item>
+	  <item name="android:textColor">#000000</item>
+  </style>
+
+  <style name="ButtonStreamStationTheme" parent="android:Widget.Button">
+	  <item name="android:background">@drawable/streamstationtheme_btn_default_holo_light</item>
+	  <item name="android:minHeight">48dip</item>
+	  <item name="android:minWidth">64dip</item>
+	  <item name="android:textColor">#000000</item>
+  </style>
+
+  <style name="ImageButtonStreamStationTheme" parent="android:Widget.ImageButton">
+	  <item name="android:background">@drawable/streamstationtheme_btn_default_holo_light</item>
+  </style>
+
+  <style name="ProgressBarStreamStationTheme" parent="android:Widget.ProgressBar.Horizontal">
+      <item name="android:progressDrawable">@drawable/streamstationtheme_progress_horizontal_holo_light</item>
+      <item name="android:indeterminateDrawable">@drawable/streamstationtheme_progress_indeterminate_horizontal_holo_light</item>
+      <item name="android:minHeight">16dip</item>
+      <item name="android:maxHeight">16dip</item>
+  </style>
+
+</resources>

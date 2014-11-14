@@ -1,0 +1,5 @@
+{"downloadlist": {
+"0": {"name": "master.zip", "size": 73065, "progress": 10453, "speed": 1370, "readableSize": "71.3 KiB", "readableSpeed": "1.3 KiB/s", "readableProgress": "10.2 KiB", "status": "downloading"},
+"1": {"name": "master_1.zip", "size": 73065, "progress": 7713, "speed": 1370, "readableSize": "71.3 KiB", "readableSpeed": "1.3 KiB/s", "readableProgress": "7.5 KiB", "status": "canceled"},
+"2": {"name": "master_2.zip", "size": 73065, "progress": 3603, "speed": 1370, "readableSize": "71.3 KiB", "readableSpeed": "1.3 KiB/s", "readableProgress": "3.5 KiB", "status": "downloading"}
+}}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/contextual_cancel"
+        android:title="@string/contextual_cancel"
+        android:orderInCategory="1" />
+    <item android:id="@+id/contextual_play_pause"
+        android:title="@string/contextual_play"
+        android:orderInCategory="1" />
+</menu>

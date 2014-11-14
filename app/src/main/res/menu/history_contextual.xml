@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/history_contextual_delete"
+        android:title="@string/history_contextual_delete"
+        android:orderInCategory="1" />
+</menu>

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+    <title>StreamStation</title>
+    <link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="jquery.js"></script>
+    <script type="text/javascript">var page = "index";</script>
+    <script type="text/javascript" src="script.js"></script>
+</head>
+<body>
+    <div id="header">
+        <div id="title"><h1><a href="/"><img src="logo.png" /></a></h1></div>
+        <div id="right">
+            <div id="new">
+                <form action="download" method="get">
+                    <input type="text" name="url" class="input" empty="Add a link here..." value="Add a link here..." />
+                    <input type="submit" class="button" value="Add" />
+                </form>
+            </div>
+            <div id="settings">
+                <a href="settings.html"><img src='settings.png' /></a>
+            </div>
+        </div>
+    </div>
+    <div id="message"></div>
+    <table id="content" class="downloads"></table>
+</body>
+</html>
